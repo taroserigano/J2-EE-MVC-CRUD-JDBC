@@ -3,4 +3,4 @@ This is an J2EE MVC app that lets you create, get, delete and update students in
 
 <img src="https://github.com/taroserigano/J2-EE-MVC-CRUD-JDBC/blob/main/pic1.png">
 
-<img src="https://github.com/taroserigano/J2-EE-MVC-CRUD-JDBC/blob/main/pic2.png">
+<img src="https://github.com/taroserigano/J2-EE-MVC-CRUD-JDBC/blob/main/pic3.png">
